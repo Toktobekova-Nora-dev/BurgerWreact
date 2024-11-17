@@ -1,0 +1,71 @@
+.doulinCounter{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+
+.box{
+    width: 886px;
+    height: 130px;
+    background: rgba(217, 217, 217, 1);
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 10px;
+}
+
+.counChast button{
+    width: 188px;
+    height: 40px;
+    background: rgba(189, 29, 29, 1);
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 10px;
+    border: none;
+}
+
+.doulinCounter button{
+    width: 60px;
+    height: 38px;
+    background-color: rgba(221, 170, 39, 1);
+    color: black;
+}
+
+.box img{
+    object-fit: cover;
+    width: 186px;
+    height: 103px;
+   border-radius: 10px;
+}
+
+.cofee h2{
+    color: black;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.cofee h4{
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+    padding-top: 10px;
+}
+
+.orderCoding{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding-top: 40px;
+}
+
+#orderCoding h1{
+     text-align: center;
+     color: rgba(51, 51, 45, 1);
+     font-size: 40px;
+     padding: 20px;
+}

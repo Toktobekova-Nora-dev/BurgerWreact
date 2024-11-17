@@ -1,0 +1,35 @@
+.adminner h1{
+   text-align: center;
+  padding-block: 50px;
+  font-size: 40px;
+}
+
+.input input{
+    width: 536px;
+    height: 67px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+   outline: none;
+   font-size: 20px;
+   padding-left: 20px;
+}
+
+.input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 40px;
+}
+
+
+.input button{
+    width: 254px;
+    height: 80px;
+    background: rgba(221, 170, 39, 1);
+    color: aliceblue;
+    font-size: 36px;
+    border: none;
+    border-radius: 5px;
+}

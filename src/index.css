@@ -1,0 +1,45 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+.container{
+  width: 90%;
+  margin: 0 auto;
+}
+
+.header{
+  padding-bottom: 20px;
+  padding-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.Navlink{
+  display: flex;
+  align-items: center;
+  gap: 90px;
+}
+
+.Navlink a{
+  font-size: 30px;
+  font-weight: 600;
+
+}
+
+#header{
+  background: rgb(244, 243, 243);
+}
+
+body{
+  background-color:rgb(56, 131, 162);
+  width: 100%;
+  height: 100%;
+  font-family: sans-serif;
+}
